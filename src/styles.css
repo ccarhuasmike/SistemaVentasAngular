@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@import "assets/font/iconsmind/style.css";
+@import "assets/font/simple-line-icons/css/simple-line-icons.css";
+@import "assets/css/bootstrap.min.css";
+@import "assets/css/perfect-scrollbar.css";
+@import "assets/css/jquery.contextMenu.min.css";
+@import "assets/css/main.css";
+/* <link rel="stylesheet" href="font/iconsmind/style.css">
+<link rel="stylesheet" href="font/simple-line-icons/css/simple-line-icons.css">
+<link rel="stylesheet" href="css/vendor/bootstrap.min.css">
+<link rel="stylesheet" href="css/vendor/perfect-scrollbar.css">
+<link rel="stylesheet" href="css/vendor/jquery.contextMenu.min.css">
+<link rel="stylesheet" href="css/main.css"> */
