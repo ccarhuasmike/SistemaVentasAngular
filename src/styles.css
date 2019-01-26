@@ -2,7 +2,17 @@
 @import "assets/font/iconsmind/style.css";
 @import "assets/font/simple-line-icons/css/simple-line-icons.css";
 @import "assets/css/bootstrap.min.css";
+@import "assets/css/fullcalendar.min.css";
+@import "assets/css/dataTables.bootstrap4.min.css";
+@import "assets/css/datatables.responsive.bootstrap4.min.css";
+@import "assets/css/select2.min.css";
 @import "assets/css/perfect-scrollbar.css";
-@import "assets/css/jquery.contextMenu.min.css";
+/* @import "assets/css/owl.carousel.min.css"; */
+@import "assets/css/bootstrap-stars.css";
+@import "assets/css/nouislider.min.css";
+@import "assets/css/bootstrap-datepicker3.min.css";
+/* <link rel="stylesheet" href="css/main.css"; */
+/* @import "assets/css/perfect-scrollbar.css"; */
+/* @import "assets/css/jquery.contextMenu.min.css"; */
 @import "assets/css/main.css";
 @import "assets/css/dore.light.blue.min.css";
